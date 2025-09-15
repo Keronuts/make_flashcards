@@ -166,11 +166,7 @@ MakeFlashcards/
 
 ## License
 
-Choose your license (MIT is common). Example:
-
-```
-MIT License — © 2025 Your Name
-```
+none
 
 ---
 
